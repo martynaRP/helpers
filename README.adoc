@@ -1,0 +1,12 @@
+:icons: font
+:hardbreaks:
+:authors: Tomasz Borek, Paweł Kierat, Marcin Ogorzałek
+:copyright: Copyrighted by EPAM Systems
+= Helpers
+
+You should share here your solutions to the task about helper classes from JDK (accordingly to the Tomasz's excel).
+
+IMPORTANT: The main package for this soliutions should be `com.epam.prejap.ess.helpers`.
+
+TIP: You can add new dependencies and plugins to the `pom.xml` if necessary.
+
