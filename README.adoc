@@ -6,7 +6,6 @@
 
 You should share here your solutions to the task about helper classes from JDK (accordingly to the Tomasz's excel).
 
-IMPORTANT: The main package for this soliutions should be `com.epam.prejap.ess.helpers`.
+IMPORTANT: The main package for these solutions should be `com.epam.prejap.ess.helpers`.
 
 TIP: You can add new dependencies and plugins to the `pom.xml` if necessary.
-
