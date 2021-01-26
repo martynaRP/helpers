@@ -1,4 +1,4 @@
-package com.epam.prejap.ess.helpers;
+package com.epam.prejap.ess.helpers.collectionsemptylist;
 
 import java.util.Collections;
 import java.util.List;
