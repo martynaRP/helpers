@@ -6,7 +6,7 @@
 
     <groupId>com.epam.prejap.ess</groupId>
     <artifactId>helpers</artifactId>
-    <version>0.3</version>
+    <version>0.4</version>
     <name>Java Essentail Classes :: Helpers</name>
     <description>Solutions for the task about helpers</description>
     <url>https://careers.epam-poland.pl/training/juniors-java-online-program</url>
@@ -37,7 +37,6 @@
             <version>${version.testng}</version>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
             <artifactId>jmh-core</artifactId>
@@ -54,7 +53,6 @@
             <artifactId>javax.annotation-api</artifactId>
             <version>${version.javax.annotation}</version>
         </dependency>
-
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
