@@ -12,7 +12,8 @@
             <class name="com.epam.prejap.ess.helpers.arrays.fillvssetall.CompletingArrayTest"/>
             <class name="com.epam.prejap.ess.helpers.objectscheckingnull.CheckingNullTest"/>
             <class name="com.epam.prejap.ess.helpers.objectscompare.TaskObjectsCompareTest"/>
-            <class name="com.epam.prejap.ess.helpers.createmap.CreateMapTest"></class>
+            <class name="com.epam.prejap.ess.helpers.createmap.CreateMapTest"/>
+            <class name="com.epam.prejap.ess.helpers.list.unmodifiablevsof.UnmodifiableListVsListOfTest"/>
         </classes>
     </test>
 </suite>
