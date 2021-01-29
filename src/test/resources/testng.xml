@@ -14,6 +14,8 @@
             <class name="com.epam.prejap.ess.helpers.objectscompare.TaskObjectsCompareTest"/>
             <class name="com.epam.prejap.ess.helpers.createmap.CreateMapTest"/>
             <class name="com.epam.prejap.ess.helpers.list.unmodifiablevsof.UnmodifiableListVsListOfTest"/>
+            <class name="com.epam.prejap.ess.helpers.createmap.CreateMapTest"/>
+            <class name="com.epam.prejap.ess.helpers.comparingarrays.ArraysCompareTest"/>
         </classes>
     </test>
 </suite>
